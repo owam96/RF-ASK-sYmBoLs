@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m16adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\Debug\RF_ASK_Rx_sYmBoLs_JoyStick.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>RF_ASK_Rx_sYmBoLs_JoyStick.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>RF_ASK_Rx_sYmBoLs_JoyStick.map</FILE>
+  <FILE>RF_ASK_Rx_sYmBoLs_JoyStick.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PROGRAM><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>83</LINE></PROGRAM>
+  <WAIT_FOR_DATA><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>106</LINE></WAIT_FOR_DATA>
+  <SCND_PRT><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>116</LINE></SCND_PRT>
+  <RCV_L_NIB_ADCX_L><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>126</LINE></RCV_L_NIB_ADCX_L>
+  <SYM_TO_ORG_L><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>322</LINE></SYM_TO_ORG_L>
+  <RCV_H_NIB_ADCX_L><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>134</LINE></RCV_H_NIB_ADCX_L>
+  <SYM_TO_ORG_H><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>338</LINE></SYM_TO_ORG_H>
+  <RCV_L_NIB_ADCX_H><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>144</LINE></RCV_L_NIB_ADCX_H>
+  <RCV_H_NIB_ADCX_H><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>152</LINE></RCV_H_NIB_ADCX_H>
+  <RCV_L_NIB_ADCY_L><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>162</LINE></RCV_L_NIB_ADCY_L>
+  <RCV_H_NIB_ADCY_L><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>170</LINE></RCV_H_NIB_ADCY_L>
+  <RCV_L_NIB_ADCY_H><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>180</LINE></RCV_L_NIB_ADCY_H>
+  <RCV_H_NIB_ADCY_H><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>188</LINE></RCV_H_NIB_ADCY_H>
+  <CHECK_IF_Y><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>206</LINE></CHECK_IF_Y>
+  <GO_TO_Y><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>273</LINE></GO_TO_Y>
+  <CHECK_UP2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>218</LINE></CHECK_UP2>
+  <CHECK_UP1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>230</LINE></CHECK_UP1>
+  <CHECK_CENTER><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>242</LINE></CHECK_CENTER>
+  <CHECK_DOWN1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>254</LINE></CHECK_DOWN1>
+  <CHECK_DOWN2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>266</LINE></CHECK_DOWN2>
+  <CHECK_RIGHT2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>275</LINE></CHECK_RIGHT2>
+  <CHECK_RIGHT1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>287</LINE></CHECK_RIGHT1>
+  <CHECK_LEFT1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>299</LINE></CHECK_LEFT1>
+  <CHECK_LEFT2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>311</LINE></CHECK_LEFT2>
+  <sYmBoLs><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>372</LINE></sYmBoLs>
+  <SCAN1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>326</LINE></SCAN1>
+  <WAIT_FOR_DATA_JMP><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>355</LINE></WAIT_FOR_DATA_JMP>
+  <DONE1><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>334</LINE></DONE1>
+  <SCAN2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>342</LINE></SCAN2>
+  <DONE2><FILE>D:\AVR\Projects\RF_ASK_Rx_sYmBoLs_JoyStick\RF_ASK_Rx_sYmBoLs_JoyStick\main.asm</FILE><LINE>350</LINE></DONE2>
+ </LABELS>
+</ASSEMBLER_INFO>
