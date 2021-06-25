@@ -3,7 +3,7 @@ Drivers for FS1000A (433MHz) radio transmitter and receiver modules, which utili
 
 ## Transmitter Module
 
-The code written for the transmitter module assumes a joystick module is connected to the microcontroller. The position of the joystick is "encrypted" into symbols and sent over UART to the receiver module.
+The code written for the transmitter module assumes a joystick module is connected to the microcontroller. The position of the joystick is encoded into symbols and sent over UART to the receiver module.
 
 Transmitter code is available in the file: RF_ASK_Tx_sYmBoLs_JoyStick
 
