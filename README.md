@@ -1,2 +1,2 @@
 # RF_ASK_sYmBoLs
- AVR assembly code for receiver and transmitter using RF Amplitude Shift Keying
+ AVR assembly code to control transmitter and receiver radio modules using RF Amplitude Shift Keying
